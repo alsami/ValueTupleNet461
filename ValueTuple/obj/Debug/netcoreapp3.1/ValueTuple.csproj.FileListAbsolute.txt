@@ -1,0 +1,12 @@
+C:\Users\al-khatib.sami\RiderProjects\ValueTuple\ValueTuple\bin\Debug\netcoreapp3.1\ValueTuple.exe
+C:\Users\al-khatib.sami\RiderProjects\ValueTuple\ValueTuple\bin\Debug\netcoreapp3.1\ValueTuple.deps.json
+C:\Users\al-khatib.sami\RiderProjects\ValueTuple\ValueTuple\bin\Debug\netcoreapp3.1\ValueTuple.runtimeconfig.json
+C:\Users\al-khatib.sami\RiderProjects\ValueTuple\ValueTuple\bin\Debug\netcoreapp3.1\ValueTuple.runtimeconfig.dev.json
+C:\Users\al-khatib.sami\RiderProjects\ValueTuple\ValueTuple\bin\Debug\netcoreapp3.1\ValueTuple.dll
+C:\Users\al-khatib.sami\RiderProjects\ValueTuple\ValueTuple\bin\Debug\netcoreapp3.1\ValueTuple.pdb
+C:\Users\al-khatib.sami\RiderProjects\ValueTuple\ValueTuple\obj\Debug\netcoreapp3.1\ValueTuple.csprojAssemblyReference.cache
+C:\Users\al-khatib.sami\RiderProjects\ValueTuple\ValueTuple\obj\Debug\netcoreapp3.1\ValueTuple.AssemblyInfoInputs.cache
+C:\Users\al-khatib.sami\RiderProjects\ValueTuple\ValueTuple\obj\Debug\netcoreapp3.1\ValueTuple.AssemblyInfo.cs
+C:\Users\al-khatib.sami\RiderProjects\ValueTuple\ValueTuple\obj\Debug\netcoreapp3.1\ValueTuple.dll
+C:\Users\al-khatib.sami\RiderProjects\ValueTuple\ValueTuple\obj\Debug\netcoreapp3.1\ValueTuple.pdb
+C:\Users\al-khatib.sami\RiderProjects\ValueTuple\ValueTuple\obj\Debug\netcoreapp3.1\ValueTuple.genruntimeconfig.cache

@@ -1,0 +1,10 @@
+C:\Users\al-khatib.sami\RiderProjects\ValueTuple\ValueTuple\obj\Debug\net461\ValueTuple.csprojAssemblyReference.cache
+C:\Users\al-khatib.sami\RiderProjects\ValueTuple\ValueTuple\obj\Debug\net461\ValueTuple.AssemblyInfoInputs.cache
+C:\Users\al-khatib.sami\RiderProjects\ValueTuple\ValueTuple\obj\Debug\net461\ValueTuple.AssemblyInfo.cs
+C:\Users\al-khatib.sami\RiderProjects\ValueTuple\ValueTuple\bin\Debug\net461\ValueTuple.exe.config
+C:\Users\al-khatib.sami\RiderProjects\ValueTuple\ValueTuple\bin\Debug\net461\ValueTuple.exe
+C:\Users\al-khatib.sami\RiderProjects\ValueTuple\ValueTuple\bin\Debug\net461\ValueTuple.pdb
+C:\Users\al-khatib.sami\RiderProjects\ValueTuple\ValueTuple\bin\Debug\net461\System.ValueTuple.dll
+C:\Users\al-khatib.sami\RiderProjects\ValueTuple\ValueTuple\obj\Debug\net461\ValueTuple.csproj.CopyComplete
+C:\Users\al-khatib.sami\RiderProjects\ValueTuple\ValueTuple\obj\Debug\net461\ValueTuple.exe
+C:\Users\al-khatib.sami\RiderProjects\ValueTuple\ValueTuple\obj\Debug\net461\ValueTuple.pdb
